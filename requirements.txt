@@ -1,0 +1,5 @@
+pyautogui
+keyboard
+pyperclip
+imapclient==2.1.0
+pyzmail
